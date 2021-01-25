@@ -46,3 +46,15 @@ Git Flow 적용
 소나큐브와 코드리뷰를 통한 클린코드 지향
 
 태블릿앱 개발 경험
+
+
+**5) 아키텍처**
+
+
+<img src="https://user-images.githubusercontent.com/37071007/105709449-0ffe8a80-5f59-11eb-96eb-02c6a078bd88.png" align="left">
+
+<img src="https://user-images.githubusercontent.com/37071007/105709464-17be2f00-5f59-11eb-827f-8c8ce2c74bac.png" align="left">
+
+<img src="https://user-images.githubusercontent.com/37071007/105709502-2573b480-5f59-11eb-8bc7-17619004fa3f.png" align="left">
+
+<img src="https://user-images.githubusercontent.com/37071007/105709518-2b699580-5f59-11eb-8699-fc62539e6832.png" align="left">
