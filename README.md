@@ -9,7 +9,7 @@
 **1) 시연영상**
 
 
-시연 영상 : [https://www.youtube.com/watch?v=RAQpGx08eSw&feature=youtu.be](https://www.youtube.com/watch?v=RAQpGx08eSw&feature=youtu.be)
+[https://www.youtube.com/watch?v=RAQpGx08eSw&feature=youtu.be](https://www.youtube.com/watch?v=RAQpGx08eSw&feature=youtu.be)
 
 **2) 프로젝트 설명**
 
